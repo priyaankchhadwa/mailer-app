@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">InClass08</string>
+    <string name="login">login</string>
+    <string name="sign_up">sign up</string>
+    <string name="password">password</string>
+    <string name="email">email</string>
+    <string name="LOGIN_API">http://ec2-18-234-222-229.compute-1.amazonaws.com/api/login</string>
+    <string name="SIGNUP_API">http://ec2-18-234-222-229.compute-1.amazonaws.com/api/signup</string>
+    <string name="INBOX_API">http://ec2-18-234-222-229.compute-1.amazonaws.com/api/inbox</string>
+    <string name="USERS_API">http://ec2-18-234-222-229.compute-1.amazonaws.com/api/users</string>
+    <string name="MAILTO_API">http://ec2-18-234-222-229.compute-1.amazonaws.com/api/inbox/add</string>
+    <string name="DELETE_API">http://ec2-18-234-222-229.compute-1.amazonaws.com/api/inbox/delete/%d</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="repeat_password">repeat password</string>
+</resources>
